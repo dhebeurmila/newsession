@@ -1,2 +1,1 @@
-hi i am using git
-for demonstration
+this is for my purpose
